@@ -11,8 +11,9 @@ Group:		Reader
 
 BuildRequires:  gperf
 BuildRequires:  scdoc
-BuildRequires:  lib64sqlite3-devel
-BuildRequires:  lib64gumbo-devel
+BuildRequires:  pkgconfig(sqlite3)
+BuildRequires:  pkgconfig(gumbo)
+BuildRequires:  pkgconfig(libcurl)
 
 Requires:   curl
 Requires:   expat
