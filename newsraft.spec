@@ -19,7 +19,7 @@ BuildRequires:  pkgconfig(expat)
 Requires:   curl
 Requires:   expat
 Requires:   lib64sqlite3_0
-Requires:   gumbo-parser
+Requires:   lib64gumbo
 
 %description
 Newsraft is a feed reader with text-based user interface. It's greatly inspired by Newsboat and tries to be its lightweight counterpart.
