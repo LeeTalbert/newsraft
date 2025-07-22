@@ -14,6 +14,7 @@ BuildRequires:  scdoc
 BuildRequires:  pkgconfig(sqlite3)
 BuildRequires:  pkgconfig(gumbo)
 BuildRequires:  pkgconfig(libcurl)
+BuildRequires:  pkgconfig(expat)
 
 Requires:   curl
 Requires:   expat
