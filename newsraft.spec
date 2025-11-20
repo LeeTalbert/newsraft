@@ -1,7 +1,7 @@
 %global debug_package %{nil}
 
 Name:		newsraft
-Version:	0.31
+Version:	0.34
 Release:	1
 Source0:	https://codeberg.org/newsraft/newsraft/archive/%{name}-%{version}.tar.gz
 Summary:	Feed reader with text-based user interface.
